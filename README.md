@@ -5,6 +5,9 @@
     - Feature Engineering
     - Clustering algorithms and assessment
 
+### Visualisations
+![Map_img](img/map_geo_1.png)
+
 ### Technologies
 - scikit-learn
 - scipy
