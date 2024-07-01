@@ -45,20 +45,20 @@ We built a recommendation system that takes a single Google Place and recommends
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <div style="margin-right: 20px;">
-    <img src="img/sample_row.png" alt="Sample row" width="300">
-    <p>Figure 2: Sample row.</p>
+    <img src="img/sample_row.png" alt="Sample row" width="700">
+    <p>Figure 2: Sample Google place.</p>
   </div>
-  <div style="margin: 0 20px; font-size: 24px;">
-    ➡️
+  <div style="margin: 0 20px; font-size: 50px;">
+    <span style="font-size: 36px;">⬇</span>
   </div>
-  <div style="margin-left: 20px;">
-    <img src="img/recom_for_sample.png" alt="Recommendations" width="300">
+  <div style="margin-top: 100px;">
+    <img src="img/recom_for_sample.png" alt="Recommendations" width="700">
     <p>Figure 3: Recommendations for the given Google place.</p>
   </div>
 </div>
 
 <div align="center">
-  <img src="img/map_geo_1.png" alt="Map img" width="500">
+  <img src="img/map_geo_1.png" alt="Map img" width="700">
   <p>Figure 4: Map of the Google Places included in the dataset with additional information.</p>
 </div>
 
